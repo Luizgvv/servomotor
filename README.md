@@ -77,11 +77,10 @@ Isso demonstra como o PWM pode ser usado não apenas para controlar a posição 
    
 ### Vídeo de Demonstração
 
-[![Demonstração na Placa]() .
 
-Um vídeo de demonstração com a explicação e exibição do funcionamento do projeto foi produzido. Clique na imagem acima ou no link abaixo para assistir:
+Um vídeo de demonstração com a explicação e exibição do funcionamento do projeto foi produzido. Clique no link abaixo para assistir:
 
-🔗 [Assistir no YouTube])  .
+🔗 [Assistir no YouTube] (https://youtu.be/riFVJKGhFUg)  .
 
 **Autor**
 - Luiz Gustavo do Valle Vieira
